@@ -1,10 +1,13 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+Please find the published solution on git hub pages:
+  `https://anand-sharan.github.io/index.html`
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![WebVisualizations/Images/landingResize.png](/Images/landingResize.png)
+![/Images/landingResize.png](/Images/landingResize.png)
 
 ### Before You Begin
 
@@ -18,7 +21,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 5. Push the above changes to GitHub or GitLab.
 
-6. Deploy to GitHub pages. 
+6. Deploy to GitHub pages.
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
