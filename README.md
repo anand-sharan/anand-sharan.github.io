@@ -1,7 +1,7 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 Please find the published solution on git hub pages:
-  `https://anand-sharan.github.io/index.html`
+  [GITHUB Published solution](https://anand-sharan.github.io/index.html)
 
 ## Background
 
